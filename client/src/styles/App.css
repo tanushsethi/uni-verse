@@ -291,3 +291,12 @@ table{
   border: none !important;
   margin-bottom: 50px;
 }
+
+.error-message {
+	/* display: none; */
+	color: red;
+}
+
+.add{
+	color: red !important; 
+}
